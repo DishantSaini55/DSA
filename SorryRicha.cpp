@@ -5,7 +5,7 @@ int main()
 {
     int i=0;
     while(i<50){
-        cout<<"Sorry Richaa:)"<<endl;
+        cout<<"Sorry"<<endl;
         i++;
     }
     return 0;
